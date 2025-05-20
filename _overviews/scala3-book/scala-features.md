@@ -371,7 +371,7 @@ As you’ll see in the third section of this page, Scala libraries and framework
 
 The [Awesome Scala list](https://github.com/lauris/awesome-scala) shows dozens of additional open source tools that developers have created to build Scala applications.
 
-In addition to server-side programming, [Scala.js](https://www.scala-js.org) is a strongly-typed replacement for writing JavaScript, with open source third-party libraries that include tools to integrate with Facebook’s React library, jQuery, and more.
+In addition to server-side programming, [Scala.js](https://www.scala-js.org) is a strongly-typed replacement for writing JavaScript, with open source third-party libraries that include tools to integrate with Meta’s React library, jQuery, and more.
 
 
 
@@ -501,7 +501,7 @@ Some of the more notable libraries are listed below.
 - [Scalatra](https://scalatra.org) is a tiny, high-performance, async web framework, inspired by Sinatra
 - [Finatra](https://twitter.github.io/finatra) is Scala services built for X
 - [Scala.js](https://www.scala-js.org) is a strongly-typed replacement for JavaScript that provides a safer way to build robust front-end web applications
-- [ScalaJs-React](https://github.com/japgolly/scalajs-react) lifts Facebook’s React library into Scala.js, and endeavours to make it as type-safe and Scala-friendly as possible
+- [ScalaJs-React](https://github.com/japgolly/scalajs-react) lifts Meta’s React library into Scala.js, and endeavours to make it as type-safe and Scala-friendly as possible
 
 HTTP(S) libraries:
 
